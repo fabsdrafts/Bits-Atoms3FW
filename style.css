@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 100;
+}
+
+.tooltip {
+  position: absolute;
+  z-index: auto;
+  padding: 0px;
+  font-size: 40px;
+}
+
+svg rect:hover {
+  cursor: pointer;
+}
